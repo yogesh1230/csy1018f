@@ -1,0 +1,14 @@
+
+body{
+	margin: 0 ;
+}
+header,footer{
+	background: green;padding: 3%;text-align: center;
+}
+header h1{
+	margin: 0;
+}
+section{
+	background: red; padding: 3%;text-align: center;
+}
+
